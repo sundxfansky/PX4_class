@@ -1,0 +1,23 @@
+
+
+https://blog.csdn.net/superrunner_wujin/article/details/64132323
+
+
+
+<?xml version="1.0"?>
+<mavlink>
+        <include>common.xml</include>
+        <!-- NOTE: If the included file already contains a version tag, remove the version tag here, else uncomment to enable. -->
+	<!--<version>3</version>-->
+	<enums>
+	</enums>
+	<messages>
+		<message id="150" name="RUDDER_RAW">
+			<description>This message encodes all of the raw rudder sensor data from the USV.</description>
+			<field type="uint16_t" name="position">The raw data from the position sensor, generally a potentiometer.</field>
+			<field type="uint8_t" name="port_limit">Status of the rudder limit sensor, port side. 0 indicates off and 1 indicates that the limit is hit. If this sensor is inactive set to 0xFF.</field>
+			<field type="uint8_t" name="center_limit">Status of the rudder limit sensor, port side. 0 indicates off and 1 indicates that the limit is hit. If this sensor is inactive set to 0xFF.</field>
+			<field type="uint8_t" name="starboard_limit">Status of the rudder limit sensor, starboard side. 0 indicates off and 1 indicates that the limit is hit. If this sensor is inactive set to 0xFF.</field>
+		</message>
+	</messages>
+</mavlink>
