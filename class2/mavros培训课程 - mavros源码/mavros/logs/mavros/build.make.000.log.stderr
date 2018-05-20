@@ -1,0 +1,4 @@
+[01m[K/home/nvidia/mavros/src/mavros/mavros/src/position_control_outdoor.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/nvidia/mavros/src/mavros/mavros/src/position_control_outdoor.cpp:337:83:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kpos_drone.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::z[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_z_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [-Wnarrowing]
+             static float desire_position_NED[3] = { 0, 0, pos_drone.pose.position.z };
+[01;32m[K                                                                                   ^[m[K

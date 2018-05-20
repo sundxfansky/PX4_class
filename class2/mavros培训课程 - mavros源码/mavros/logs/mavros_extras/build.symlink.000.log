@@ -1,0 +1,6 @@
+Symlinking /home/nvidia/mavros/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Symlinking /home/nvidia/mavros/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/nvidia/mavros/devel/lib/libmavros_extras.so
+Symlinking /home/nvidia/mavros/devel/lib/pkgconfig/mavros_extras.pc
+Symlinking /home/nvidia/mavros/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/nvidia/mavros/devel/lib/mavros_extras/copter_visualization

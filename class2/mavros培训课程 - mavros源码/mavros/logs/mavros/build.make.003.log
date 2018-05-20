@@ -1,0 +1,15 @@
+[ 19%] Built target mavros
+[35m[1mScanning dependencies of target position_estimator_laser[0m
+[ 23%] Built target mavros_example_1
+[ 26%] Built target mavros_example_2
+[ 30%] Built target position_control_outdoor
+[ 32%] [32mBuilding CXX object CMakeFiles/position_estimator_laser.dir/src/position_estimator_laser.cpp.o[0m
+[ 35%] Built target mission3
+[ 39%] Built target mavros_example_3
+[ 42%] Built target position_control
+[ 46%] Built target move
+[ 50%] Built target gcs_bridge
+[ 53%] Built target mavros_node
+[ 98%] Built target mavros_plugins
+[100%] [32m[1mLinking CXX executable /home/nvidia/mavros/devel/.private/mavros/lib/mavros/position_estimator_laser[0m
+[100%] Built target position_estimator_laser

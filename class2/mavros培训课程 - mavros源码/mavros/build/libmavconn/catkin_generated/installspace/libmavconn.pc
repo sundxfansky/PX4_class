@@ -1,0 +1,8 @@
+prefix=/home/nvidia/mavros/install
+
+Name: libmavconn
+Description: Description of libmavconn
+Version: 0.24.0
+Cflags: -I/home/nvidia/mavros/install/include -I/usr/include -I/home/nvidia/mavros/devel/include
+Libs: -L/home/nvidia/mavros/install/lib -lmavconn /usr/lib/aarch64-linux-gnu/libboost_system.so /usr/lib/aarch64-linux-gnu/libconsole_bridge.so
+Requires: 

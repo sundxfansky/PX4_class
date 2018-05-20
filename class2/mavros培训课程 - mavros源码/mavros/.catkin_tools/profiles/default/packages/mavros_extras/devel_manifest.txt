@@ -1,0 +1,7 @@
+mavros/mavros_extras
+/home/nvidia/mavros/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/nvidia/mavros/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/nvidia/mavros/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/nvidia/mavros/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/nvidia/mavros/devel/.private/mavros_extras/lib/libmavros_extras.so /home/nvidia/mavros/devel/lib/libmavros_extras.so
+/home/nvidia/mavros/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/nvidia/mavros/devel/lib/pkgconfig/mavros_extras.pc
+/home/nvidia/mavros/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/nvidia/mavros/devel/lib/mavros_extras/servo_state_publisher
+/home/nvidia/mavros/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization /home/nvidia/mavros/devel/lib/mavros_extras/copter_visualization

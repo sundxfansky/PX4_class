@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/mavros/devel/.private/libmavconn/setup.sh

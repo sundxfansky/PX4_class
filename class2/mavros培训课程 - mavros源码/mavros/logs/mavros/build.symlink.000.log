@@ -1,0 +1,15 @@
+Symlinking /home/nvidia/mavros/devel/share/mavros/cmake/mavrosConfig.cmake
+Symlinking /home/nvidia/mavros/devel/share/mavros/cmake/mavrosConfig-version.cmake
+Symlinking /home/nvidia/mavros/devel/lib/libmavros.so
+Symlinking /home/nvidia/mavros/devel/lib/libmavros_plugins.so
+Symlinking /home/nvidia/mavros/devel/lib/pkgconfig/mavros.pc
+Symlinking /home/nvidia/mavros/devel/lib/mavros/position_control_outdoor
+Symlinking /home/nvidia/mavros/devel/lib/mavros/mission3
+Symlinking /home/nvidia/mavros/devel/lib/mavros/gcs_bridge
+Symlinking /home/nvidia/mavros/devel/lib/mavros/mavros_node
+Symlinking /home/nvidia/mavros/devel/lib/mavros/mavros_example_3
+Symlinking /home/nvidia/mavros/devel/lib/mavros/mavros_example_2
+Symlinking /home/nvidia/mavros/devel/lib/mavros/position_control
+Symlinking /home/nvidia/mavros/devel/lib/mavros/move
+Symlinking /home/nvidia/mavros/devel/lib/mavros/mavros_example_1
+Symlinking /home/nvidia/mavros/devel/lib/python2.7/dist-packages/mavros/__init__.py

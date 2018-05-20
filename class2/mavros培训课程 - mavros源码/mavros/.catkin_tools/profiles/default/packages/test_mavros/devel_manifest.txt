@@ -1,0 +1,6 @@
+mavros/test_mavros
+/home/nvidia/mavros/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig.cmake /home/nvidia/mavros/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+/home/nvidia/mavros/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig-version.cmake /home/nvidia/mavros/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+/home/nvidia/mavros/devel/.private/test_mavros/lib/libmavros_sitl_test.so /home/nvidia/mavros/devel/lib/libmavros_sitl_test.so
+/home/nvidia/mavros/devel/.private/test_mavros/lib/pkgconfig/test_mavros.pc /home/nvidia/mavros/devel/lib/pkgconfig/test_mavros.pc
+/home/nvidia/mavros/devel/.private/test_mavros/lib/test_mavros/sitl_test_node /home/nvidia/mavros/devel/lib/test_mavros/sitl_test_node

@@ -1,0 +1,6 @@
+mavros/libmavconn
+/home/nvidia/mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/nvidia/mavros/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/nvidia/mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/nvidia/mavros/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/nvidia/mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/nvidia/mavros/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/nvidia/mavros/devel/.private/libmavconn/lib/libmavconn.so /home/nvidia/mavros/devel/lib/libmavconn.so
+/home/nvidia/mavros/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/nvidia/mavros/devel/lib/pkgconfig/libmavconn.pc

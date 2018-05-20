@@ -1,0 +1,6 @@
+devel_space: /home/nvidia/mavros/devel
+install: false
+install_space: /home/nvidia/mavros/install
+profile: default
+source_space: /home/nvidia/mavros/src
+workspace: /home/nvidia/mavros

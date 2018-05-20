@@ -1,0 +1,8 @@
+Symlinking /home/nvidia/mavros/devel/./env.sh
+Symlinking /home/nvidia/mavros/devel/./setup.sh
+Symlinking /home/nvidia/mavros/devel/./_setup_util.py
+Symlinking /home/nvidia/mavros/devel/./setup.bash
+Symlinking /home/nvidia/mavros/devel/./setup.zsh
+Symlinking /home/nvidia/mavros/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/nvidia/mavros/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/nvidia/mavros/devel/lib/pkgconfig/catkin_tools_prebuild.pc
